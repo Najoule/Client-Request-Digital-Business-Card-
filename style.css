@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+}
+
+p {
+    color: grey;
+}
+
+button {
+    padding: 12px;
+}
+
+button:hover
